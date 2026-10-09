@@ -1,0 +1,371 @@
+{
+  "NZSP:1": {
+    "rom_source": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).zip",
+    "rom_sha256_be": "f760c811e02b4951873a5919b3a1c84fda68e5042aa5d9f69ee8368ac72b0297",
+    "code_prefix": "27bdffd8afb0001800808025afbf001cafa5002c8602001c3c05801b24a5ed6c",
+    "player_confirmation_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce002486190ae80c04d9202605024010400009240600049218014b",
+    "confirm_native_code": "3c0100013c06801e8fbf00202419004a002d082124c66ef0a0391f2690c23f422401000210410009240100031041000d240100045041001297f81ff497ee1ff425cffffd10000012a7ef1ff497f81ff43c010001002d08212719fffb1000000ca4391ff497ee1ff43c010001002d082125cffffc10000006a42f1ff497f81ff43c010001002d08212719fffda4391ff43c010001002d0821a42020da3c010001002d082110000437a42020d8",
+    "runtime": {
+      "msg_base": 18696,
+      "msg_field_delta": 4,
+      "pause_state": 93980,
+      "transition_trigger": 100469,
+      "next_entrance": 100474,
+      "transition_type": 100479,
+      "transition_mode": 101194,
+      "room_status": 100113,
+      "song_cutscene": 100420,
+      "setup_actors": 100422,
+      "pause_state_rom_accesses": [
+        "0x2194c",
+        "0x50828",
+        "0x5b6cc",
+        "0x6049c"
+      ],
+      "transition_trigger_rom_accesses": [
+        "0x43f40",
+        "0x447a0",
+        "0x451d0",
+        "0x45348"
+      ],
+      "next_entrance_rom_accesses": [
+        "0x44784",
+        "0x451c0",
+        "0x4525c",
+        "0x45338"
+      ],
+      "transition_type_rom_accesses": [
+        "0x447b4",
+        "0x45224",
+        "0x4535c",
+        "0x4538c"
+      ],
+      "transition_mode_rom_accesses": [
+        "0x38f18",
+        "0xc1108",
+        "0xc111c",
+        "0xc1130"
+      ],
+      "room_status_rom_accesses": [
+        "0x14950",
+        "0x14c40",
+        "0x14d94",
+        "0x23cc0"
+      ],
+      "song_cutscene_rom_accesses": [
+        "0x13568",
+        "0x7ed9c",
+        "0xc5aa4",
+        "0x130fb0"
+      ],
+      "setup_actors_rom_accesses": [
+        "0x131fc",
+        "0x89ce4",
+        "0xc44dc"
+      ]
+    },
+    "save_length": 4108,
+    "checksum": 4106,
+    "validation": "ROM + DECOMP; hardware status recorded separately",
+    "cycle_action_prefix": "27bdffa8afb10028afb0002400a0802500808825afbf002c8e0e1ccc3c010001",
+    "cycle_rom_vstart": "0xfdca10",
+    "cycle_file_sha256": "c0c8db524ee9879d7f3f73eb553dfd395534adc83bbab13bca1a1288dc914e11",
+    "save_code_referenced_address": "0x801e6ef0"
+  },
+  "NZSP:0": {
+    "rom_source": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).zip",
+    "rom_sha256_be": "d64d412d595ca32a248320da56772291b6bac7bcd942752f357c4bba367685e6",
+    "code_prefix": "27bdffd8afb0001800808025afbf001cafa5002c8602001c3c05801b24a5e9cc",
+    "player_confirmation_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce002486190ae80c04d8802605024010400009240600049218014b",
+    "confirm_native_code": "3c0100013c06801e8fbf00202419004a002d082124c66b50a0391f2690c23f422401000210410009240100031041000d240100045041001297f81ff497ee1ff425cffffd10000012a7ef1ff497f81ff43c010001002d08212719fffb1000000ca4391ff497ee1ff43c010001002d082125cffffc10000006a42f1ff497f81ff43c010001002d08212719fffda4391ff43c010001002d0821a42020da3c010001002d082110000437a42020d8",
+    "runtime": {
+      "msg_base": 18696,
+      "msg_field_delta": 4,
+      "pause_state": 93980,
+      "transition_trigger": 100469,
+      "next_entrance": 100474,
+      "transition_type": 100479,
+      "transition_mode": 101194,
+      "room_status": 100113,
+      "song_cutscene": 100420,
+      "setup_actors": 100422,
+      "pause_state_rom_accesses": [
+        "0x2194c",
+        "0x50828",
+        "0x5b6cc",
+        "0x6049c"
+      ],
+      "transition_trigger_rom_accesses": [
+        "0x43f40",
+        "0x447a0",
+        "0x451d0",
+        "0x45348"
+      ],
+      "next_entrance_rom_accesses": [
+        "0x44784",
+        "0x451c0",
+        "0x4525c",
+        "0x45338"
+      ],
+      "transition_type_rom_accesses": [
+        "0x447b4",
+        "0x45224",
+        "0x4535c",
+        "0x4538c"
+      ],
+      "transition_mode_rom_accesses": [
+        "0x38f18",
+        "0xc1048",
+        "0xc105c",
+        "0xc1070"
+      ],
+      "room_status_rom_accesses": [
+        "0x14950",
+        "0x14c40",
+        "0x14d94",
+        "0x23cc0"
+      ],
+      "song_cutscene_rom_accesses": [
+        "0x13568",
+        "0x7ed9c",
+        "0xc59e4"
+      ],
+      "setup_actors_rom_accesses": [
+        "0x131fc",
+        "0x89ce4",
+        "0xc441c"
+      ]
+    },
+    "save_length": 4108,
+    "checksum": 4106,
+    "validation": "ROM + DECOMP; hardware status recorded separately",
+    "cycle_action_prefix": "27bdffa8afb10028afb0002400a0802500808825afbf002c8e0e1ccc3c010001",
+    "cycle_rom_vstart": "0xfdc880",
+    "cycle_file_sha256": "fb31802d0064a0428500a8a62c46ed83b4801346548ab55cfb4faf890eb8c377",
+    "save_code_referenced_address": "0x801e6b50"
+  },
+  "NZSE:0": {
+    "rom_source": "Legend of Zelda, The - Majora's Mask (USA).zip",
+    "rom_sha256_be": "efb1365b3ae362604514c0f9a1a2d11f5dc8688ba5be660a37debf5e3be43f2b",
+    "code_prefix": "27bdffd8afb0001800808025afbf001cafa5002c8602001c3c05801b24a5deac",
+    "player_confirmation_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce002486190ae80c04d8382605024010400009240600049218014b",
+    "confirm_native_code": "3c010001240e004a002d0821a02e1f2297ef1ff03c010001002d082125f8fffda4381ff03c010001002d0821a42020d63c010001002d0821",
+    "runtime": {
+      "msg_base": 18696,
+      "msg_field_delta": 0,
+      "pause_state": 93980,
+      "transition_trigger": 100469,
+      "next_entrance": 100474,
+      "transition_type": 100479,
+      "transition_mode": 101194,
+      "room_status": 100113,
+      "song_cutscene": 100420,
+      "setup_actors": 100422,
+      "pause_state_rom_accesses": [
+        "0x220dc",
+        "0x50f88",
+        "0x5bdec",
+        "0x60bbc"
+      ],
+      "transition_trigger_rom_accesses": [
+        "0x446c0",
+        "0x44f20",
+        "0x45950",
+        "0x45ac8"
+      ],
+      "next_entrance_rom_accesses": [
+        "0x44f04",
+        "0x45940",
+        "0x459dc",
+        "0x45ab8"
+      ],
+      "transition_type_rom_accesses": [
+        "0x44f34",
+        "0x459a4",
+        "0x45adc",
+        "0x45b0c"
+      ],
+      "transition_mode_rom_accesses": [
+        "0x39678",
+        "0xc04b8",
+        "0xc04cc",
+        "0xc04e0"
+      ],
+      "room_status_rom_accesses": [
+        "0x150ec",
+        "0x153dc",
+        "0x15530",
+        "0x24450"
+      ],
+      "song_cutscene_rom_accesses": [
+        "0x13d04",
+        "0x7ee0c",
+        "0xc4e3c"
+      ],
+      "setup_actors_rom_accesses": [
+        "0x13998",
+        "0x89e64",
+        "0xc388c"
+      ]
+    },
+    "save_length": 4108,
+    "checksum": 4106,
+    "validation": "ROM + DECOMP; hardware status recorded separately",
+    "cycle_action_prefix": "27bdffa8afb10028afb0002400a0802500808825afbf002c8e0e1ccc3c010001",
+    "cycle_rom_vstart": "0xeab870",
+    "cycle_file_sha256": "ed5578d5cc61bc400bd2ba729781abe7052c0cd734f2358ecd946e0421ed314e",
+    "save_code_referenced_address": "0x801ef670"
+  },
+  "NZSJ:1": {
+    "rom_source": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A).zip",
+    "rom_sha256_be": "7f81367323b3face9dff8961abe1937df9f87a13c558ec038838c25490029bf3",
+    "code_prefix": "27bdffd8afb0001800808025afbf001cafa5002c8602001c3c05801b24a58f7c",
+    "player_confirmation_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce001f860e0ae80c04deec260502401040001a240600049218014b",
+    "confirm_native_code": "3c010001240f004a003f0821a02f1f2296181ff03c010001003f08212719fffda4391ff03c01801ca4201b443c01801c100003d2a4201b40",
+    "runtime": {
+      "msg_base": 18696,
+      "msg_field_delta": 0,
+      "pause_state": 93948,
+      "transition_trigger": 100437,
+      "next_entrance": 100442,
+      "transition_type": 100447,
+      "transition_mode": 101162,
+      "room_status": 100081,
+      "song_cutscene": 100388,
+      "setup_actors": 100390,
+      "pause_state_rom_accesses": [
+        "0x220dc",
+        "0x510d8",
+        "0x5bf3c",
+        "0x60d0c"
+      ],
+      "transition_trigger_rom_accesses": [
+        "0x446a8",
+        "0x44f08",
+        "0x45938",
+        "0x45ab0"
+      ],
+      "next_entrance_rom_accesses": [
+        "0x44eec",
+        "0x45928",
+        "0x459c4",
+        "0x45aa0"
+      ],
+      "transition_type_rom_accesses": [
+        "0x44f1c",
+        "0x4598c",
+        "0x45ac4",
+        "0x45af4"
+      ],
+      "transition_mode_rom_accesses": [
+        "0x39678",
+        "0xba548",
+        "0xba55c",
+        "0xba570"
+      ],
+      "room_status_rom_accesses": [
+        "0x150ec",
+        "0x153dc",
+        "0x15530",
+        "0x24454"
+      ],
+      "song_cutscene_rom_accesses": [
+        "0x13d04",
+        "0x7eddc",
+        "0xbb4b8"
+      ],
+      "setup_actors_rom_accesses": [
+        "0x13998",
+        "0x89e14",
+        "0xbe0dc"
+      ]
+    },
+    "save_length": 5008,
+    "checksum": 5006,
+    "validation": "ROM + DECOMP; hardware status recorded separately",
+    "reset_aux_globals": [
+      1841988,
+      1841984
+    ],
+    "cycle_action_prefix": "27bdffb0afbf0024afa400508cae1ccc3c0100013421800000a11821afae004c",
+    "cycle_rom_vstart": "0xecfe30",
+    "cycle_file_sha256": "17a70096cdf031b063e28fa87398df73e0984d89012a7071f4591ca90f814fe1",
+    "save_code_referenced_address": "0x801ef710"
+  },
+  "NZSJ:0": {
+    "rom_source": "Zelda no Densetsu - Mujura no Kamen (Japan).zip",
+    "rom_sha256_be": "d5b295cff29864b17090fab06024739ece5e4febaf3455f9ce4eb2ce3d460fc0",
+    "code_prefix": "27bdffd8afb0001800808025afbf001cafa5002c8602001c3c05801b24a58d3c",
+    "player_confirmation_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce001f860e0ae80c04ded4260502401040001a240600049218014b",
+    "confirm_native_code": "3c010001240f004a003f0821a02f1f2296181ff03c010001003f08212719fffda4391ff03c01801ca42019343c01801c100003b9a4201930",
+    "runtime": {
+      "msg_base": 18696,
+      "msg_field_delta": 0,
+      "pause_state": 93948,
+      "transition_trigger": 100437,
+      "next_entrance": 100442,
+      "transition_type": 100447,
+      "transition_mode": 101162,
+      "room_status": 100081,
+      "song_cutscene": 100388,
+      "setup_actors": 100390,
+      "pause_state_rom_accesses": [
+        "0x2208c",
+        "0x50ff8",
+        "0x5be3c",
+        "0x60c0c"
+      ],
+      "transition_trigger_rom_accesses": [
+        "0x44638",
+        "0x44e98",
+        "0x458c8",
+        "0x45a40"
+      ],
+      "next_entrance_rom_accesses": [
+        "0x44e7c",
+        "0x458b8",
+        "0x45954",
+        "0x45a30"
+      ],
+      "transition_type_rom_accesses": [
+        "0x44eac",
+        "0x4591c",
+        "0x45a54",
+        "0x45a84"
+      ],
+      "transition_mode_rom_accesses": [
+        "0x39610",
+        "0xba398",
+        "0xba3ac",
+        "0xba3c0"
+      ],
+      "room_status_rom_accesses": [
+        "0x15084",
+        "0x15374",
+        "0x154c8",
+        "0x24404"
+      ],
+      "song_cutscene_rom_accesses": [
+        "0x13ce0",
+        "0x7ecbc",
+        "0xbb308"
+      ],
+      "setup_actors_rom_accesses": [
+        "0x13998",
+        "0x89cf4",
+        "0xbdf2c"
+      ]
+    },
+    "save_length": 5008,
+    "checksum": 5006,
+    "validation": "ROM + DECOMP; hardware status recorded separately",
+    "reset_aux_globals": [
+      1841460,
+      1841456
+    ],
+    "cycle_action_prefix": "27bdffb0afbf0024afa400508cae1ccc3c0100013421800000a11821afae004c",
+    "cycle_rom_vstart": "0xecf960",
+    "cycle_file_sha256": "3450605c5f93686a4ebff0d4de721ca86e6510a4023bb252ed957bca92045a74",
+    "save_code_referenced_address": "0x801ef460"
+  }
+}

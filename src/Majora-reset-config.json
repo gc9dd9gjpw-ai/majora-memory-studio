@@ -1,0 +1,19 @@
+{
+  "profile": "NZSE0",
+  "player_action_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce002486190ae80c04d8382605024010400009240600049218014b",
+  "state": "native Song of Time dialog; reset edited path physically pending",
+  "pal11": {
+    "player_action_prefix": "27bdffa0afb10030afb0002c0080802500a08825afbf003424060004920e0aa50220202550ce002486190ae80c04d9202605024010400009240600049218014b",
+    "confirm_code_signature": "3c0100013c06801e8fbf00202419004a002d082124c66ef0a0391f2690c23f422401000210410009240100031041000d240100045041001297f81ff497ee1ff425cffffd10000012a7ef1ff497f81ff43c010001002d08212719fffb1000000ca4391ff497ee1ff43c010001002d082125cffffc10000006a42f1ff497f81ff43c010001002d08212719fffda4391ff43c010001002d0821a42020da3c010001002d082110000437a42020d8",
+    "message_field_delta": 4,
+    "language_save_offset": 16194,
+    "text_length_subtractions": {
+      "0": 3,
+      "1": 3,
+      "2": 5,
+      "3": 4,
+      "4": 3
+    },
+    "evidence": "PAL 1.1 capture 20261009110317; MIPS native Yes branch; physical reset pending"
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "hearts": [
+    {
+      "offset": 3913,
+      "bit": 3,
+      "name": "Clock Town: Mailbox checked with Postman's Hat"
+    },
+    {
+      "offset": 3891,
+      "bit": 3,
+      "name": "Clock Town: 5000 Rupees collected on Clock Town Bank"
+    },
+    {
+      "offset": 3346,
+      "bit": 2,
+      "name": "North Clock Town: Top of a tree"
+    },
+    {
+      "offset": 3846,
+      "bit": 7,
+      "name": "North Clock Town: Deku Scrub Playground won 3 days"
+    },
+    {
+      "offset": 3911,
+      "bit": 7,
+      "name": "North Clock Town: Keaton Quizz won"
+    },
+    {
+      "offset": 3905,
+      "bit": 3,
+      "name": "East Clock Town: Paper given to ???"
+    },
+    {
+      "offset": 3864,
+      "bit": 2,
+      "name": "East Clock Town: Town Shooting Gallery"
+    },
+    {
+      "offset": 3854,
+      "bit": 7,
+      "name": "East Clock Town: Honey & Darkling's game won 3 days"
+    },
+    {
+      "offset": 899,
+      "bit": 1,
+      "name": "East Clock Town: Treasure Chest Game wonf"
+    },
+    {
+      "offset": 3882,
+      "bit": 1,
+      "name": "East Clock Town: Anju's grandmother's first story"
+    },
+    {
+      "offset": 3882,
+      "bit": 2,
+      "name": "East Clock Town: Anju's grandmother's second story"
+    },
+    {
+      "offset": 3892,
+      "bit": 4,
+      "name": "East Clock Town: Talked to the mayor with the Couple's Mask"
+    },
+    {
+      "offset": 3374,
+      "bit": 2,
+      "name": "South Clock Town: Business Deku Scrub"
+    },
+    {
+      "offset": 3895,
+      "bit": 5,
+      "name": "West Clock Town: Swordman's School Expert Training completed"
+    },
+    {
+      "offset": 3909,
+      "bit": 0,
+      "name": "West Clock Town: Postman challenge"
+    },
+    {
+      "offset": 3907,
+      "bit": 7,
+      "name": "West Clock Town: Dance with Rosa Sisters"
+    },
+    {
+      "offset": 462,
+      "bit": 3,
+      "name": "Termina Field: Pea Hat defeated on cavern"
+    },
+    {
+      "offset": 462,
+      "bit": 2,
+      "name": "Termina Field: Dodongos defeated on cavern"
+    },
+    {
+      "offset": 3885,
+      "bit": 1,
+      "name": "Termina Field: Business Deku Scrub on cavern near Astral Observatory"
+    },
+    {
+      "offset": 3922,
+      "bit": 4,
+      "name": "Termina Field: Gossip Stones"
+    },
+    {
+      "offset": 463,
+      "bit": 2,
+      "name": "Termina Field: Beehive on a cave near Great Bay Entrance"
+    },
+    {
+      "offset": 2059,
+      "bit": 1,
+      "name": "Road to Southern Swamp: Top of a tree"
+    },
+    {
+      "offset": 3864,
+      "bit": 1,
+      "name": "Road to Southern Swamp: Swamp Shooting Gallery"
+    },
+    {
+      "offset": 2196,
+      "bit": 6,
+      "name": "Southern Swamp: Business Deku Scrub"
+    },
+    {
+      "offset": 3919,
+      "bit": 2,
+      "name": "Southern Swamp: Pictograh contest won"
+    },
+    {
+      "offset": 3858,
+      "bit": 6,
+      "name": "Southern Swamp: Bow mini-game on Tourist Center"
+    },
+    {
+      "offset": 1468,
+      "bit": 6,
+      "name": "Deku Palace: Left maze completed"
+    },
+    {
+      "offset": 2226,
+      "bit": 2,
+      "name": "Woodfall: Chest near Woodfall Temple"
+    },
+    {
+      "offset": 3867,
+      "bit": 7,
+      "name": "Mountain Village: All frogs retrieved"
+    },
+    {
+      "offset": 2871,
+      "bit": 7,
+      "name": "Road to Goron Village: Chest under the lake"
+    },
+    {
+      "offset": 2420,
+      "bit": 6,
+      "name": "Goron Village: Business Deku Scrub"
+    },
+    {
+      "offset": 2814,
+      "bit": 0,
+      "name": "Road to Snowhead: Scarecrow spot on ravine zone"
+    },
+    {
+      "offset": 3840,
+      "bit": 5,
+      "name": "Romani Ranch: Dog race won"
+    },
+    {
+      "offset": 3888,
+      "bit": 1,
+      "name": "Great Bay Coast: Fishs fed on Marine Research Lab"
+    },
+    {
+      "offset": 1807,
+      "bit": 5,
+      "name": "Great Bay Coast: Near a soft soil and the Scarecrow spot"
+    },
+    {
+      "offset": 1384,
+      "bit": 7,
+      "name": "Great Bay Coast: Colored masks in Skulltula House"
+    },
+    {
+      "offset": 3914,
+      "bit": 4,
+      "name": "Great Bay Coast: Fisherman's jumping game won"
+    },
+    {
+      "offset": 3871,
+      "bit": 5,
+      "name": "Zora Hall: Even's Melody"
+    },
+    {
+      "offset": 2392,
+      "bit": 6,
+      "name": "Zora Hall: Business Deku Scrub in Mikau's Room"
+    },
+    {
+      "offset": 1246,
+      "bit": 4,
+      "name": "Pirates' Fortress: In a cell"
+    },
+    {
+      "offset": 3864,
+      "bit": 0,
+      "name": "Pinnacle Rock: Couples of seahorses reunited"
+    },
+    {
+      "offset": 1835,
+      "bit": 7,
+      "name": "Zora Cape: Like Like into deep bassin defeated"
+    },
+    {
+      "offset": 3857,
+      "bit": 0,
+      "name": "Zora Cape: Beavers race won"
+    },
+    {
+      "offset": 600,
+      "bit": 7,
+      "name": "Ikana Graveyard: Chest inside a tomb"
+    },
+    {
+      "offset": 796,
+      "bit": 6,
+      "name": "Ikana Canyon: Business Deku Scrub"
+    },
+    {
+      "offset": 3886,
+      "bit": 6,
+      "name": "Ikana Canyon: Ghosts challenge in a house"
+    },
+    {
+      "offset": 2954,
+      "bit": 2,
+      "name": "Ikana Canyon: Mini-bosses challenge on Secret Shine"
+    },
+    {
+      "offset": 1078,
+      "bit": 2,
+      "name": "Ancient Castle of Ikana: Deku Flowers"
+    },
+    {
+      "offset": 1443,
+      "bit": 1,
+      "name": "The Moon: Odolwa's mini-dungeon"
+    },
+    {
+      "offset": 2031,
+      "bit": 1,
+      "name": "The Moon: Ghot's mini-dungeon"
+    },
+    {
+      "offset": 2255,
+      "bit": 1,
+      "name": "The Moon: Gyorg's mini-dungeon"
+    },
+    {
+      "offset": 3123,
+      "bit": 1,
+      "name": "The Moon: Twinmold's mini-dungeon"
+    }
+  ],
+  "bosses": [
+    31,
+    68,
+    95,
+    54
+  ],
+  "skulls": [
+    {
+      "group": 0,
+      "scene": 39,
+      "mask": 1073741823
+    },
+    {
+      "group": 1,
+      "scene": 40,
+      "mask": 1073741823
+    }
+  ],
+  "fairies": [
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 10,
+      "name": "Woodfall Pre-Boss Lower Right Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 11,
+      "name": "Woodfall Entrance Fairy"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 12,
+      "name": "Woodfall Pre-Boss Upper Left Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 13,
+      "name": "Woodfall Pre-Boss Pillar Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 14,
+      "name": "Woodfall Deku Baba"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 15,
+      "name": "Woodfall Poison Water Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 16,
+      "name": "Woodfall Main Room Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 17,
+      "name": "Woodfall Skulltula"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "switch0",
+      "flag": 18,
+      "name": "Woodfall Pre-Boss Upper Right Bubble"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "chest",
+      "flag": 23,
+      "name": "Woodfall Main Room Switch"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "chest",
+      "flag": 24,
+      "name": "Woodfall Entrance Platform"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "chest",
+      "flag": 25,
+      "name": "Woodfall Dark Room"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "collectible",
+      "flag": 28,
+      "name": "Woodfall Jar Fairy"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "collectible",
+      "flag": 29,
+      "name": "Woodfall Bridge Room Hive"
+    },
+    {
+      "group": 0,
+      "scene": 27,
+      "field": "collectible",
+      "flag": 30,
+      "name": "Woodfall Platform Room Hive"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 11,
+      "name": "Snowhead Snow Room Bubble"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 12,
+      "name": "Snowhead Ceiling Bubble"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 13,
+      "name": "Snowhead Dinolfos 1"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 15,
+      "name": "Snowhead Bridge Room Ledge Bubble"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 16,
+      "name": "Snowhead Bridge Room Pillar Bubble"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 17,
+      "name": "Snowhead Dinolfos 2"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "switch0",
+      "flag": 18,
+      "name": "Snowhead Map Room Fairy"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 19,
+      "name": "Snowhead Map Room Ledge"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 20,
+      "name": "Snowhead Basement"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 21,
+      "name": "Snowhead Twin Block"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 22,
+      "name": "Snowhead Icicle Room Wall"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 23,
+      "name": "Snowhead Main Room Wall"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 24,
+      "name": "Snowhead Pillar Freezards"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "chest",
+      "flag": 25,
+      "name": "Snowhead Ice Puzzle"
+    },
+    {
+      "group": 1,
+      "scene": 33,
+      "field": "collectible",
+      "flag": 30,
+      "name": "Snowhead Crate"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "switch0",
+      "flag": 18,
+      "name": "Great Bay Skulltula"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "switch0",
+      "flag": 15,
+      "name": "Great Bay Pre-Boss Room Underwater Bubble"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "switch0",
+      "flag": 16,
+      "name": "Great Bay Water Control Room Underwater Bubble"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "switch0",
+      "flag": 17,
+      "name": "Great Bay Pre-Boss Room Bubble"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 20,
+      "name": "Great Bay Waterwheel Room Upper"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 21,
+      "name": "Great Bay Green Valve"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 22,
+      "name": "Great Bay Seesaw Room"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 23,
+      "name": "Great Bay Waterwheel Room Lower"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 24,
+      "name": "Great Bay Entrance Torches"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "chest",
+      "flag": 25,
+      "name": "Great Bay Bio Babas"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "collectible",
+      "flag": 26,
+      "name": "Great Bay Underwater Barrel"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "collectible",
+      "flag": 27,
+      "name": "Great Bay Whirlpool Jar"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "collectible",
+      "flag": 28,
+      "name": "Great Bay Whirlpool Barrel"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "collectible",
+      "flag": 29,
+      "name": "Great Bay Dexihands Jar"
+    },
+    {
+      "group": 2,
+      "scene": 73,
+      "field": "collectible",
+      "flag": 30,
+      "name": "Great Bay Ledge Jar"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 11,
+      "name": "Stone Tower Mirror Sun Block"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 12,
+      "name": "Stone Tower Eyegore"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 13,
+      "name": "Stone Tower Lava Room Fire Ring"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 14,
+      "name": "Stone Tower Updraft Fire Ring"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 15,
+      "name": "Stone Tower Mirror Sun Switch"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 16,
+      "name": "Stone Tower Entrance Sun Switch"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 17,
+      "name": "Stone Tower Wizzrobe"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 18,
+      "name": "Stone Tower Death Armos"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 19,
+      "name": "Stone Tower Updraft Frozen Eye"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 20,
+      "name": "Stone Tower Thin Bridge"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 21,
+      "name": "Stone Tower Basement Ledge"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 22,
+      "name": "Stone Tower Statue Eye"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 23,
+      "name": "Stone Tower Underwater"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 24,
+      "name": "Stone Tower Bridge Crystal"
+    },
+    {
+      "group": 3,
+      "scene": 22,
+      "field": "chest",
+      "flag": 25,
+      "name": "Stone Tower Lava Room Ledge"
+    }
+  ],
+  "sources": [
+    "https://github.com/RyudoSynbios/game-tools-collection/blob/master/src/lib/templates/legend-of-zelda-the-majora-s-mask/saveEditor/template.ts",
+    "https://github.com/ZoeyZolotova/mm-rando/blob/master/MMR.Randomizer/GameObjects/Item.cs",
+    "https://github.com/ZoeyZolotova/mm-rando/blob/master/assembly/c/ItemDetector.c",
+    "https://github.com/zeldaret/mm/blob/main/src/code/z_actor.c",
+    "https://github.com/zeldaret/mm/blob/main/src/code/z_play.c"
+  ],
+  "scene_aliases": {
+    "24": 22,
+    "0": 69,
+    "90": 80,
+    "72": 77,
+    "94": 93,
+    "89": 88
+  }
+}
